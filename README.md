@@ -11,7 +11,15 @@
 | [프로젝트](https://github.com/chang-yoon/chang-yoon/blob/main/projects/README.md) | 프로젝트 개요, 문제 해결, 본인 기여와 결과 |
 | [활동](https://github.com/chang-yoon/chang-yoon/blob/main/activities/README.md) | 활동별 역할, 수행 내용과 배운 점 |
 
-현재 프로젝트와 활동 자료를 정리하고 있습니다. 내용과 공개 범위를 확인한 기록부터 추가합니다.
+## 대표 프로젝트
+
+### [L.E.O.N.A. — 태양광 패널 선택 세척 드론](https://github.com/chang-yoon/chang-yoon/blob/main/projects/autonomous-cleaning-drone.md)
+
+Team DA-DAKA의 AI 비전 기반 드론 프로젝트입니다. 패널·오염 인식을 자율비행과 선택 분사에 연결했습니다.
+
+**종합설계경진대회 은상 수상.** 한이음 결과를 기다리고 있으며, 프로젝트를 개선하여 WE-MEET에 참가할 예정입니다.
+
+다른 프로젝트와 활동 자료도 정리하고 있습니다. 내용과 공개 범위를 확인한 기록부터 추가합니다.
 
 ## 기록 방식
 
