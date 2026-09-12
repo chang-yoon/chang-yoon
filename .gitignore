@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private/
+working-notes/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+~$*
