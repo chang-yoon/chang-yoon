@@ -1,0 +1,77 @@
+{
+  "review_date": "2026-09-13",
+  "natural_frequencies_hz": [
+    1.1802065230319738,
+    11.083236964794738
+  ],
+  "reproduced_peaks_hz": {
+    "sprung": 1.1520000000000001,
+    "unsprung": 10.708,
+    "relative": 11.371
+  },
+  "relative_peak_mm": 31.727807421879252,
+  "harmonic_check_max_error_mm": 0.00010086433269683448,
+  "model_dc_gains": {
+    "original_2dof": 1.0,
+    "fixed_body": 0.9174311926605504,
+    "common_base": 0.9999999999999999
+  },
+  "smooth_road_results": [
+    {
+      "speed_kmh": 80,
+      "transition_width_m": 0.1,
+      "baseline_peak_mm": 11.321149042735014,
+      "revised_peak_mm": 9.055341204074415,
+      "reduction_percent": 20.013938780486328,
+      "refinement_error_mm": 0.0009168434379897006
+    },
+    {
+      "speed_kmh": 80,
+      "transition_width_m": 0.5,
+      "baseline_peak_mm": 10.976324749873173,
+      "revised_peak_mm": 9.003092373843375,
+      "reduction_percent": 17.97716832360119,
+      "refinement_error_mm": 0.0004530630548331416
+    },
+    {
+      "speed_kmh": 80,
+      "transition_width_m": 1.0,
+      "baseline_peak_mm": 9.988145874645491,
+      "revised_peak_mm": 8.84371785696579,
+      "reduction_percent": 11.457862470599133,
+      "refinement_error_mm": 0.0007797074133945869
+    },
+    {
+      "speed_kmh": 20,
+      "transition_width_m": 0.1,
+      "baseline_peak_mm": 11.103384382496799,
+      "revised_peak_mm": 9.022656071525525,
+      "reduction_percent": 18.73958641161071,
+      "refinement_error_mm": 0.0012299054782654445
+    },
+    {
+      "speed_kmh": 20,
+      "transition_width_m": 0.5,
+      "baseline_peak_mm": 7.198126608350876,
+      "revised_peak_mm": 8.25997282824246,
+      "reduction_percent": -14.751702459077197,
+      "refinement_error_mm": 0.00016602902009645037
+    },
+    {
+      "speed_kmh": 20,
+      "transition_width_m": 1.0,
+      "baseline_peak_mm": 5.37594833466114,
+      "revised_peak_mm": 6.649370318042614,
+      "reduction_percent": -23.687392514008245,
+      "refinement_error_mm": 3.995259138713653e-05
+    }
+  ],
+  "checks": [
+    "FRF direct solve versus explicit inverse",
+    "Static FRF limit",
+    "Exact frequency condensation versus original wheel response",
+    "Constant-input equilibrium",
+    "Harmonic steady-state analytical solution",
+    "0.5 ms versus 0.25 ms peak convergence"
+  ]
+}
