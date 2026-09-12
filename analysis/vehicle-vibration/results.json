@@ -1,0 +1,37 @@
+{
+  "analysis_date": "2026-09-13",
+  "baseline": {
+    "m_kg": 45.0,
+    "k_N_m": 218000.0,
+    "c_Ns_m": 1000.0
+  },
+  "revised": {
+    "k_N_m": 50617.279589597994,
+    "c_Ns_m": 1050.0
+  },
+  "candidate_count": 180,
+  "selection": "Largest sampled stiffness meeting 20 percent at 80 km/h",
+  "road": "10 m alternating plateaus +/-5 mm; 60 m road then zero for 2 s",
+  "initial_condition": "Static equilibrium at -5 mm; velocity zero",
+  "results": [
+    {
+      "speed_kmh": 80,
+      "baseline_peak_mm": 11.336952581523063,
+      "revised_peak_mm": 9.05755662328457,
+      "reduction_percent": 20.105896552424905,
+      "refinement_difference_mm": 7.067543369640439e-05
+    },
+    {
+      "speed_kmh": 20,
+      "baseline_peak_mm": 11.33695258877964,
+      "revised_peak_mm": 9.05755662328457,
+      "reduction_percent": 20.105896603563668,
+      "refinement_difference_mm": 7.067543369640439e-05
+    }
+  ],
+  "fixed_tire_search": {
+    "k_N_m": 200000.0,
+    "c_Ns_m": 1050.0,
+    "reduction_percent": 2.0622796385968645
+  }
+}

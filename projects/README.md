@@ -8,7 +8,7 @@
 | [ANSYS Fluent 기반 수직축 풍력터빈 익형 비교](ansys-vawt.md) | CFD·회전 유동·MODDE 설계안 선정 | 2026년 1학기, 4인 공동 수행 |
 | [스마트팩토리 IoT 실습](smart-factory-iot.md) | 센서·MQTT·Node-RED·출력 제어 | 2026년 1학기, 개인·6인 팀과제 |
 | [나노셀룰로오스-리그닌 복합재 연구](nanocellulose-lignin-composite.md) | DIW 3D 프린팅·굽힘시험·SEM | 2026년 1학기, 7인 공동 졸업논문 |
-| [차량 현가장치 진동 분석](vehicle-vibration.md) | 2자유도·1자유도 모델링·MATLAB FRF | 2025년 2학기, 3인 팀 보고서 |
+| [차량 현가장치 진동 분석](vehicle-vibration.md) | 진동 모델링·MATLAB 기초 | 수업 공통 과제, 2025년 2학기·3인 팀 |
 
 각 프로젝트에는 목표·기간·팀 규모, 직접 수행한 일, 기술의 사용 목적, 문제 해결 과정, 결과·측정 조건, 한계와 배운 점을 담습니다.
 
