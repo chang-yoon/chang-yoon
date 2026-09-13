@@ -43,4 +43,3 @@ Team DA-DAKA의 AI 비전 기반 드론 프로젝트입니다. 패널·오염 �
 - **결과:** 측정 조건과 근거를 함께 제시하고, 검증하지 못한 범위도 기록합니다.
 
 [프로젝트 작성 양식](https://github.com/chang-yoon/chang-yoon/blob/main/templates/project.md) · [활동 작성 양식](https://github.com/chang-yoon/chang-yoon/blob/main/templates/activity.md)
-
