@@ -10,6 +10,7 @@
 | --- | --- |
 | [프로젝트](https://github.com/chang-yoon/chang-yoon/blob/main/projects/README.md) | 프로젝트 개요, 문제 해결, 본인 기여와 결과 |
 | [활동](https://github.com/chang-yoon/chang-yoon/blob/main/activities/README.md) | 활동별 역할, 수행 내용과 배운 점 |
+| [지원서 모음](applications/README.md) | 기업별 자기소개서와 프로젝트 입력 내용 |
 
 ## 대표 프로젝트
 
@@ -42,3 +43,4 @@ Team DA-DAKA의 AI 비전 기반 드론 프로젝트입니다. 패널·오염 �
 - **결과:** 측정 조건과 근거를 함께 제시하고, 검증하지 못한 범위도 기록합니다.
 
 [프로젝트 작성 양식](https://github.com/chang-yoon/chang-yoon/blob/main/templates/project.md) · [활동 작성 양식](https://github.com/chang-yoon/chang-yoon/blob/main/templates/activity.md)
+
