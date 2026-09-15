@@ -18,7 +18,7 @@
 
 Team DA-DAKA의 AI 비전 기반 드론 프로젝트입니다. 패널·오염 인식을 자율비행과 선택 분사에 연결했습니다.
 
-**종합설계경진대회 은상 수상.** 한이음 결과를 기다리고 있으며, 프로젝트를 개선하여 WE-MEET에 참가할 예정입니다.
+**항공드론 종합설계 경진대회 은상 수상(항공드론사업단장상).** 한이음 결과를 기다리고 있으며, 프로젝트를 개선하여 WE-MEET에 참가할 예정입니다.
 
 ### [ANSYS Fluent 기반 수직축 풍력터빈 익형 비교](https://github.com/chang-yoon/chang-yoon/blob/main/projects/ansys-vawt.md)
 
