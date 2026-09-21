@@ -11,6 +11,7 @@
 | [프로젝트](https://github.com/chang-yoon/chang-yoon/blob/main/projects/README.md) | 프로젝트 개요, 문제 해결, 본인 기여와 결과 |
 | [활동](https://github.com/chang-yoon/chang-yoon/blob/main/activities/README.md) | 활동별 역할, 수행 내용과 배운 점 |
 | [지원서 모음](applications/README.md) | 기업별 자기소개서와 프로젝트 입력 내용 |
+| [모든 지원서 공통 작성 가이드](references/README.md) | 현대차·기아·GM·구 현대미포 선배 자료의 말투와 경험 전개를 회사 구분 없이 검토 |
 | [자동차 기업 지원자료 분석](references/automotive-peer-examples/README.md) | 선배 자료의 작성법·직무 용어와 본인 경험 적용 원칙 |
 | [조선해양 선배 지원자료 분석](references/shipbuilding-peer-examples/README.md) | 구 현대미포(현 HD현대중공업에 통합) 채용연계형 인턴 최종합격 사례의 작성법 |
 
