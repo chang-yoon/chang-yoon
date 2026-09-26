@@ -17,6 +17,8 @@
 
 ## 대표 프로젝트
 
+국제교류·사회활동으로는 [굿플러스 기후위기 국제교류 및 심성회 팀 우수상](activities/good-plus-climate-exchange.md)을 기록했습니다. 본인 참여 증빙, 팀 수상 결과와 향후 지원서 활용 범위를 구분해 정리했습니다.
+
 ### [L.E.O.N.A. — 태양광 패널 선택 세척 드론](https://github.com/chang-yoon/chang-yoon/blob/main/projects/autonomous-cleaning-drone.md)
 
 Team DA-DAKA의 AI 비전 기반 드론 프로젝트입니다. 패널·오염 인식을 자율비행과 선택 분사에 연결했습니다.
